@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">MiAmigoTodaro13</string>
+    <string name="et_nombre">¿Cuál es tu nombre?</string>
+    <string name="boton">Jugar</string>
+
+
+    <string name="et_vidas">Huesitos</string>
+    <string name="jugador_nombre">Jugador:</string>
+    <string name="total_score">Score: 0</string>
+    <string name="boton_sumar">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+    <string name="tv_pregunta">Pregunta</string>
+    <string name="button_check">Verifica</string>
+    <string name="btn_imagenes">Galería</string>
+    <string name="btn_quizbanderas">Quiz Imágenes</string>
+    <string name="btn_otromenu">Más recursos</string>
+    <string name="btn_notas">Notas</string>
+
+
+    <array name="todas_preguntas">
+        <item>¿Cuál es el principal musculo inspiratorio?;Pectoral mayor;*Diafragma;Intercostal
+            interno;Intercostal externo
+        </item>
+        <item>¿Rama terminal de la arteria carótida externa?;Art. lingual;Art. facial;Art.
+            subclavia;*Art. maxilar</item>
+        <item>¿Cuál no es parte del esqueleto axial?;Hueso hioides;Vértebras cervicales;Esternón;*Cintura escapular</item>
+        <item>Señale el concepto incorrecto;La epidermis es avascular;El tejido subcutáneo contiene vasos sanguíneos y linfáticos;*Los vasos propios del cartílago son ricos en oxigeno y nutrientes;La fascia profunda desprovista de grasa</item>
+        <item>¿Cómo se llaman las bolsas que se hallan en- volviendo al codo?;*Bolsa subcutánea;Bolsa subfasciales;Bolsas sinoviales tendinosas;Bolsas subtendinosas</item>
+        <item>La osiﬁcación del húmero se completa;Al momento del nacimiento;En la pubertad;A los 18 años;*A los 20 años</item>
+        <item>Señale el concepto correcto;El hueso propiamente dicho tiene pocas terminaciones nerviosas sensitivas;El periostio ricamente inervado por nervios motores;La extirpación del periostio produce la muerte del hueso;*a y c son correctas</item>
+        <item>¿Qué concepto no es correcto?;Las suturas del cráneo son articulaciones ﬁbrosas;*Las sindesmosis son completamente móviles;El radio y el cubito están unidos por una sin desmosis;En las articulaciones sinoviales los huesos se unen mediante una cápsula articular</item>
+        <item>Las articulaciones metacarpofalángicas son articulaciones;Articulaciones planas;Articulaciones esfenoideas;Articulaciones trocoides;*Articulaciones condíleas</item>
+        <item>Señale lo incorrecto;Músculos cuadrados - Recto del abdomen;Músculos planos - Sartorio;*Músculos fusiformes - Pectoral mayor;Músculos circulares - Orbiculares del ojo</item>
+        <item>Son funciones del músculo esquelético;Contracción;Mantener el tono muscular;Permitir movimientos automáticos;*Todas las señaladas</item>
+        <item>Existen contracciones rítmicas peristálticas en;Uréteres ;Trompas uterinas ;Paredes del tubo digestivo ;*Todas las señaladas</item>
+        <item>Las células musculares lisas de la pared uterina conservan su capacidad de dividirse;*Verdadero ;Falso</item>
+        <item>¿Cuál no es gran arteria elástica?;Aorta ;Tronco braquiocefálico ;Subclavia;*Braquial</item>
+        <item>El conducto linfático derecho drena la linfa que procede de, excepto;Lado derecho de la cabeza;Lado derecho del tórax ;*Lado derecho del abdomen ;Lado derecho del cuello</item>
+        <item>Señale el concepto incorrecto;La propagación inicial más común del cáncer es la vía linfógena ;Los tumores epiteliales son los tipos más frecuentes de cáncer ;*Los vasos linfáticos son las lesiones secundarias de la metástasis del cáncer ;Los nódulos cancerosos no son dolorosos al comprimirlos</item>
+        <item>Señale el concepto incorrecto;Embolo - Tapón que ocluye un vaso ;Ateroma - Depósito de calcio arterial ;Arteroesclerosis - Acumulación de grasa en las paredes arteriales;*Trombosis - Formación de coágulos extravascular local</item>
+        <item>Son componentes importantes del sistema linfoideo;Plexos linfáticos ;Linfa ;Linfocitos;*Todos los señalados</item>
+        <item>¿Qué costillas se unen directamente con el esternón?;6ª  y 7ª costillas ;7ª  y 8ª costillas ;*8ª  y 9ª costillas ;10ª y 11ª costillas</item>
+        <item>¿Cuál no es una costilla típica?;*2ª costilla ;3ª costilla ;7ª costilla ;9ª costilla</item>
+        <item>El ángulo de Louis se halla en;En las apóﬁsis xifoides ;*Entre el manubrio y el cuerpo del esternón ;En el manubrio del esternón;Escotaduras claviculares</item>
+        <item>El extremo inferior del apóﬁsis xifoides se halla a nivel de;T 12 ;L1 ;T 11 ;*T 10</item>
+        <item>El ángulo infraesternal se localiza;*Unión de apóﬁsis xifoides con el cuerpo de esternón;Unión entre el manubrio y el cuerpo del esternón;En la escotadura supraesternal;En el manubrio del esternón</item>
+        <item>El apéndice xifoides del esternón se origina a partir de;15 años;18 años;25 años;*40 años</item>
+        <item>En los movimientos de la pared torácica, el movimiento en bomba de agua se realiza a través de un eje;Vertical que pasa por el cuello de la costilla;Horizontal que pasa por el cuello de la costilla;Transversal que pasa por el cuello de la costilla;*Anteroposterior que pasa por el cuello de la costilla</item>
+        <item>La apertura torácica superior es el paso de entrada de estructuras, excepto;Esófago ;Tráquea;Vasos para la cabeza y el cuello;*Todo lo señaladas</item>
+        <item>La abertura torácica inferior está limitada anteriormente por;*Articulación xifoesternal;Costillas 11ª y 12ª ;12ª vértebra torácica;Apóﬁsis xifoides</item>
+        <item>La articulación xifoesternal es;Articulación sinovial plana;Sincondrosis;Articulación cartilaginosa primaria;*b y c</item>
+        <item>¿En cuál articulación normalmente no hay movimiento?;*Costocondrales;Intervertebrales ;Costovertebral;Esternoclaviclar</item>
+        <item>La abertura entre el ligamento costotransverso y la vértebra permite el paso del nervio;Nervio vago;Nervio glosofaríngeo;*Nervio espinal;ayb</item>
+        <item>¿Cuál no pertenece a las articulaciones del tórax?;Intervertebral;*Esternovertebral;Esternocostal;Costocondral</item>
+        <item>Son músculos accesorios de la respiración, excepto;Escalenos;Serrato anterior;*Pectoral mayor;Trapecio</item>
+        <item>Los verdaderos músculos de la pared torácica son,excepto;Serratos posteriores;Intercostales;*Escalenos;Subcostales</item>
+        <item>El nervio intercostobraquial se forma a partir de;1° y 2° nervios intercostales;1° nervio intercostal;*2° nervio intercostal;3er y 6° nervio intercostal</item>
+        <item>Los nervios toracoabdominales de la pared anterior del abdomen se forman de;Nervios intercostales del 5° al 7°;Nervios intercostales 5° al 9°;*Nervios intercostales 7° al 11°;Nervios intercostales 3er a 5°</item>
+        <item>¿Qué ramo del nervio intercostal inerva la pleura parietal?;Ramos musculares ;*Ramos colaterales;Ramos cutáneos laterales ;Ramos comunicantes</item>
+        <item>La aorta torácica contribuye a la irrigación anterior de las paredes torácicas a través de;Arteria axilar;Subcostales;Intercostales posteriores;*c y d</item>
+        <item>La arteria torácica interna se origina de;Subcostal;Aorta torácica;*Arteria subclavia;Arteria musculofrénica</item>
+        <item>Las arterias musculofrénicas son ramas de;*Arterias torácicas internas;Subcostal;Intercostales;Aorta torácica</item>
+        <item>La base de la glándula mamaria femenina se extiende verticalmente;1ª a 4ª costillas;2ª a 5ª costillas;4ª a 6ª costillas;*2ª  a 6ª costillas</item>
+        <item>Señale el concepto incorrecto;El cuerpo de las mamas femeninas se extiende transversalmente desde el borde lateral del esternón hacia la línea axilar media;*La fascia pectoral permite cierto movimiento de la mama;El proceso axilar es extensión o cola de la mama hacia la fosa axilar;La fascia pectoral cubre 2/3 partes del lecho de la mama</item>
+        <item>Los lóbulos y lobulillos de las glándulas mamarias están sostenidos por;Proceso de Spence;*Ligamento suspensorio de Cooper;Fascia pectoral;Por grasa</item>
+        <item>Durante la pubertad las mamas crecen debido a;Depósito de grasa;Desarrollo glandular;Por la expansión de los conductos galactóforos;*a y b</item>
+        <item>El tejido funcional de la glándula mamaria está representada por;Seno galactóforo;Conductos galactóforos;*Lóbulos de la glándula mamaria;a y b</item>
+        <item>Los pezones están compuestos sobre todo por;Grasa;Glándulas sudoríparas;*Fibras musculares lisas;Glándulas sebáceas</item>
+        <item>Señale el concepto incorrecto en relación a las glándulas mamarias;Son glándulas sudoríparas modiﬁcadas;Su contorno redondeado se debe a la grasa subcutánea;Los alvéolos son secretores de leche;*Aumenta ligeramente de tamaño en el periodo menstrual por la inﬂuencia de estrógenos y progesterona</item>
+        <item>La glándula mamaria se irriga por las siguientes arterias;Ramas intercostales de la arteria torácica interna;Ramas intercostales de la arteria torácica externa;Arteria toracoacromial;*Todas las señaladas</item>
+        <item>La linfa de los cuadrantes laterales de la mama drenan hacia;Nódulos linfáticos axilares;Nódulos pectorales;Nódulos linfáticos paraesternales;*a y b</item>
+        <item>En la reanimación cardiopulmonar, ¿cuál es una guía importante?;Fosa epigástrica;Angulo infraesternal;Angulo esternal;*Todas las señaladas</item>
+        <item>Señale el concepto incorrecto;Manubrio: A nivel T3 - T4;Cuerpo del esternón: A nivel T5 - T9;Vena cava superior: Entrada en aurícula derecha a nivel del tercer cartílago intercostal;*Vena cava superior: Pasa profundamente por la apóﬁsis xifoides</item>
+        <item>En un cáncer mamario la ausencia de nódulos axilares nos indica que la metástasis puede haber pasado a;Nódulos linfáticos supraclaviculares;Nódulos interpectorales;Nódulos cervicales inferiores;*Todas las señaladas</item>
+        <item>La pleura parietal presenta varias porciones que son; Mediastínica;Diafragmática;Costal;*Todas las señaladas</item>
+        <item>La cúpula pleural y el vértice del pulmón se encuentran a nivel de;Por debajo de la primera costilla;*Por arriba de la primera costilla;Por debajo del oriﬁcio superior del tórax;Por arriba de la segunda costilla</item>
+        <item>El manguito pleural se ubica;Craneal al hilio pulmonar;*Medial al hilio pulmonar;Inferior a la raíz del pulmón;Dorsal al hilio pulmonar</item>
+        <item>¿Cuál no es característica de la cara mediastínica del pulmón?;Es cóncava;Incluye el hilio ;*Impresión cardíaca grande en pulmón derecho;Arco de la aorta en cara pulmón izquierdo</item>
+        <item>Señale el concepto incorrecto;El bronquio principal derecho es más corto
+            que el bronquio principal izquierdo;El bronquio principal derecho discurre ínfero lateralmente;El bronquio principal izquierdo discurre verticalmemente ;*b y c son falsas</item>
+        <item>Los segmentos broncopulmonares, señale lo incorrecto;Son las subdivisiones más grandes de un lóbulo;Separados por tabiques de tejido conectivo;Son en número de 18 a 20;*De difícil resección quirúrgica</item>
+        <item>Los alvéolos se encuentran dispersos en las paredes de;Bronquios principales;Bronquios segmentarios;*Bronquiolos respiratorios;Bronquiolos terminales</item>
+        <item>Cada bronquiolo respiratorio da origen, ¿a cuántos conductos alveolares?;1 a 5 conductos;2 a 30 conductos;100 conductos;*2 a 11 conductos</item>
+        <item>Se desarrollan nuevos alvéolos hasta;El momento del nacimiento;Los 3 años ;*Los 8 años;Hasta la pubertad</item>
+        <item>Los alvéolos se abren en racimo en;*Sacos alveolares;Bronquiolos respiratorios;Bronquiolos terminales;Conductos alveolares</item>
+        <item>¿Cuál es el número total de alvéolos?;300.000;600.00;*300.000.000;150.000.000</item>
+        <item>Las arterias bronquiales izquierdas se originan;La arteria intercostal posterosuperior;*El tronco de la aorta torácica;La arteria bronquial superior derecha;Ninguna de las señaladas</item>
+        <item>Las arterias bronquiales nutren, excepto;Raíz de los pulmones;Tejidos de sostén de los pulmones;Pleura visceral;*Pleura parietal</item>
+        <item>La vena bronquial derecha drena en;*Vena ácigos;Vena hemiácigos;Vena cava inferior;Vena cava superior</item>
+        <item>La sonda pleural se debe insertar;3 a 4 espacio intercostal de la línea media axilar;4 a 5 espacio intercostal de LMA;*5 a 6 espacio intercostal de LMA;6 a 7 espacio intercostal de LMA</item>
+        <item>El lóbulo ácigos, señale lo correcto;Aparece en el pulmón derecho;Aparece en la base del pulmón derecho;Aparece por encima del hilio del pulmón derecho;*a y c son correctas</item>
+        <item>El mediastino medio contiene, excepto;Pericardio;Aorta ascendente;Tronco pulmonar;*Vena cava inferior</item>
+        <item>Señale el concepto incorrecto en relación al pericardio ﬁbroso;Se continúa superiormente con la túnica adventicia;Se continúa inferiormente con el centro tendinoso del diafragma;*Está insertado posteriormente en la superﬁcie del esternón;Está unido posteriormente al mediastino posterior</item>
+        <item>El seno pericárdico transverso se ubica;*Cavidad pericardica;Es continuidad del ligamento pericardiofrénico;En el pericardio ﬁbroso;Mediastino medio</item>
+        <item>La irrigación arterial del pericardio está dada por;*Arteria musculofrénica;Arterias bronquiales ;Arterias esofágicas ;Arterias frénicas superiores</item>
+        <item>La inervación del pericardio procede de;Nervios frénicos;Nervios vagos;Troncos simpáticos, vasomotores;*Todas las anteriores</item>
+        <item>La pericardiocentesis se hace a nivel de;Tercera a cuarto espacio intercostal;Cuarto a quinto espacio intercostal;*Quinto a sexto espacio intercostal;Sexto a séptimo espacio intercostal</item>
+        <item>Señale el concepto incorrecto;El pericardio es un saco ﬁbroseroso;*El pericardio ﬁbroso es elástico;La capa parietal del pericardio seroso es sensible;El pericardio ﬁbroso protege al corazón ya que no es ﬂexible</item>
+        <item>¿Cuál no es parte del esqueleto ﬁbroso del corazón?;Cuatro anillos ﬁbrosos;Dos trígonos;Parte membranoso del tabique interauricular;*Cresta terminal</item>
+        <item>La fosa oval del corazón se encuentra;*En la cara derecha del tabique interauricular;En la cara izquierda del tabique interauricular;En la pared posterior de la aurícula izquierda;En la pared craneal de la aurícula derecha</item>
+        <item>¿Cuál es la parte lisa de la aurícula derecha?;Oriﬁcio del seno coronario;Orejuela derecha;*Seno de las venas cavas;Surco terminal</item>
+        <item>El oriﬁcio del seno coronario esta;En la aurícula izquierda;En el tabique interauricular;Entre el seno de las venas cavas y la vena cava superior;*Entre el oriﬁcio AV derecho y el oriﬁcio de la vena cava inferior</item>
+        <item>El cono arterioso se ubica;Ventrículo izquierdo;Tabique interventricular;*Infundíbulo tronco pulmonar;Tabique interauricular</item>
+        <item>Las cuerdas tendinosas se originan;*Músculos papilares;Oriﬁcio auriculoventricular;Tabique interventricular;En las cúspides de la válvula tricúspide</item>
+        <item>En el vértice del cono arterioso se ubica;Vena cava superior;Vena cava inferior;*Válvula pulmonar;Cresta terminal</item>
+        <item>¿Cuántas venas pulmonares se introducen en la pared de la aurícula izquierda?;1 ;2 ;3 ;*4</item>
+        <item>Los músculos pectinados se estructuran;Pared lisa auricular;Pared rugosa ventricular ;Válvulas auriculoventriculares;*Orejuelas rugosas auriculares</item>
+        <item>El interior del ventrículo izquierdo tiene, excepto;Paredes más gruesas que las del ventrículo derecho;*Paredes con trabéculas carnosas más gruesas que las del ventrículo derecho;Músculos papilares mayores que las del ventrículo derecho;Vestíbulo de la aorta</item>
+        <item>Señale el concepto incorrecto;Las válvulas semilunares tienen tres cúspides;Las válvulas semilunares sostenidas por las cuerdas tendinosas;Su área es más grande que las cúspides de las válvulas AV; *b y c son incorrectas</item>
+        <item>La arteria coronaria derecha irriga, excepto;Aurícula derecha;La mayor parte del ventrículo derecho;El nódulo sinoauricular;*La mayor parte del tabique interventricular</item>
+        <item>La arteria coronaria izquierda irriga, excepto;La aurícula izquierda;Mayor parte del ventrículo izquierdo;Parte del ventrículo derecho;*Tercio posterior del tabique interventricular</item>
+        <item>La arteria circunﬂeja es rama de;Seno aórtico izquierdo;*Arteria coronaria izquierda;Arteria coronaria derecha;Seno aórtico derecho</item>
+        <item>¿Cuál es la vena principal del corazón?;Vena oblicua de Marshall;Vena cardíaca magna;*Seno coronario;Vena cardíaca media</item>
+        <item>El nódulo sinoauricular se ubica en;En la entrada de la VCI a la aurícula derecha;En el vértice del seno coronario;*En la entrada de la VCS en la aurícula derecha;En la base del tabique interauricular</item>
+        <item>El inicio del impulso en el nódulo sinoauricular termina en;En las aurículas;Nódulo auriculoventricular;Paredes ventriculares y músculos papilares;*Tabique interauricular</item>
+        <item>La parte lisa de la aurícula derecha en su desarrollo embriológico se forma por incorporación de;Seno coronario;*Seno venoso;Vena cava superior;Cuerno izquierdo</item>
+        <item>¿Cuál es el más habitual de los defectos cardíacos?;Defectos tabique interauricular;Transposición de los grandes vasos;Tetralogía de Fallot;*Defectos tabique interventricular</item>
+        <item>La percusión del corazón se hace a nivel de;Primero, segundo y tercero espacios intercostales;Segundo, tercero y cuarto espacios intercostales;*Tercero, cuarto y quinto espacios intercostales;Quinto, sexto y séptimo espacios intercostales</item>
+        <item>Para realizar una angiografía coronaria el catéter se introduce por; Vena femoral;*Arteria femoral;Vena subclavia;Ninguna de las anteriores</item>
+        <item>La arteria coronaria se obstruye mayormente en;Rama circunﬂeja de arteria coronaria izquierda;La arteria coronaria derecha;*La rama IV anterior de la arteria coronaria izquierda;La rama IV posterior de la arteria coronaria derecha</item>
+        <item>Las ramas del arco de la aorta son, excepto;Tronco braquiocefálico;Arteria carótida común izquierda;Arteria subclavia izquierda;*Arteria yugular izquierda</item>
+        <item>El tronco braquiocefálico se divide en;Subclavia derecha;Carótida común derecha;Yugular derecha;*a y b</item>
+        <item>El nervio laríngeo recurrente es rama de;Plexo cervical;Nervio frénico;Nervio glosofaríngeo;*Nervio vago</item>
+        <item>Señale el concepto incorrecto;Los nervios frénicos inervan el diafragma;Los nervio frénicos dan ﬁbras sensitivas para el pericardio;Los nervios frénicos dan ﬁbras sensitivas para la pleura mediastínica ;*Los nervios frénicos pasan posteriores a la raíces de los pulmones</item>
+        <item>El conducto torácico conduce la mayor parte de la linfa del organismo hacia el sistema venoso, desde, excepto; *Cuadrante superior derecho;Lado izquierdo del tórax;Miembro superior izquierdo;Miembros inferiores</item>
+        <item>La pared anterolateral del abdomen, esta irrigada por ramas derivadas de;La arteria femoral;Arteria ilíaca externa;Arteria torácica interna;*Todas las señaladas</item>
+
+
+
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="confirm">Confirmation</string>
+    <string name="remove">Remove</string>
+    <string name="confirm_message">Are yo sure you want to remove \'%1$s\'?</string>
+    <string name="cannot_write">Could\'nt write list</string>
+    <string name="cannot_read">could\'nt read list</string>
+    <string name="clear_checked">Clear checked items</string>
+    <string name="clear_all">Clear all</string>
+    <string name="confirm_clear_all">Are you sure you want to clear all items?</string>
+
+
+</resources>
